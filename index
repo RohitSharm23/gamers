@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -95,25 +95,7 @@
   <div class="card">
     <img src="images/game1.png" alt="Game 1">
     <h3>Space Shooter</h3>
-    <button class="play-btn">Play</button>
-  </div>
-
-  <div class="card">
-    <img src="images/game2.png" alt="Game 2">
-    <h3>Car Racing</h3>
-    <button class="play-btn">Play</button>
-  </div>
-
-  <div class="card">
-    <img src="images/game3.png" alt="Game 3">
-    <h3>Puzzle Game</h3>
-    <button class="play-btn">Play</button>
-  </div>
-
-</section>
-
-<footer>
-  © 2026 Rohit | All games created by me
+    <button class="play-bd by me
 </footer>
 
 </body>
